@@ -7,6 +7,7 @@ module.exports = {
     fontFamily: {
       'sans': ['"Crang"', 'sans-serif'],
       'coolvetica': ['"Coolvetica"'],
+      'monserat': ['"Montserrat"'],
     },
     extend: {
       colors: {
