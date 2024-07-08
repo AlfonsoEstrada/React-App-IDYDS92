@@ -1,5 +1,5 @@
-import Destiny2 from '../assets/img/Destiny2.webp'
-import Destiny2logo from '../assets/img/Destiny2logo.png'
+import Destiny2 from '../../../assets/img/Destiny2.webp'
+import Destiny2logo from '../../../assets/img/Destiny2logo.png'
 
 export default function Novedades() {
     return(
@@ -8,7 +8,7 @@ export default function Novedades() {
             <div className="lg:col-span-7 min-[300px]:col-span-12 sm:col-span-12 md:col-span-12 ">
               <img src={Destiny2} alt="" className='h-full'/>
             </div>  
-            <div className="bg-nav-color p-10 g:col-span-7 min-[300px]:col-span-12 sm:col-span-12 md:col-span-12 md:place-items-center lg:place-content-center ">
+            <div className="bg-nav-color lg:col-span-5 p-3 min-[300px]:col-span-12 sm:col-span-12 md:col-span-12 md:place-items-center lg:place-content-center ">
               <div className="flex justify-center lg:p-0">
               <div className="w-64">
                 <img

@@ -1,13 +1,13 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import GOW from '../assets/img/GOW.webp';
-import GOWLOGO from '../assets/img/GOWLOGO.webp';
-import LogoSP from '../assets/img/LogoSP.webp';
-import Spiderman2 from '../assets/img/Spiderman2.jpeg';
-import DBSZ from '../assets/img/DBSZ.webp';
-import DBSZLOGO from '../assets/img/DBSZLOGO.png';
-import Stary from '../assets/img/Stary.jpg';
-import Straylogo from '../assets/img/Straylogo.webp';
+import GOW from '../../../assets/img/GOW.webp';
+import GOWLOGO from '../../../assets/img/GOWLOGO.webp';
+import LogoSP from '../../../assets/img/LogoSP.webp';
+import Spiderman2 from '../../../assets/img/Spiderman2.jpeg';
+import DBSZ from '../../../assets/img/DBSZ.webp';
+import DBSZLOGO from '../../../assets/img/DBSZLOGO.png';
+import Stary from '../../../assets/img/Stary.jpg';
+import Straylogo from '../../../assets/img/Straylogo.webp';
 
 
 export default function Slider() {
